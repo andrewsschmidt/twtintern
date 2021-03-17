@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Gallagher Traders
+title: Gallagher GTS Traders
 theme: hugo-refresh
 # theme: ../..
 
@@ -106,7 +106,7 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Gallagher Traders
+    title: Gallagher GTS Traders
     # option to specify the subtitle in the homepage
     subtitle: Lunch and Learn 2021
     # option to specify image in the homepage
