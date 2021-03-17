@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Tailwind Traders Interns
+title: Gallagher Traders
 theme: hugo-refresh
 # theme: ../..
 
@@ -106,9 +106,9 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Tailwind Traders Interns
+    title: Gallagher Traders
     # option to specify the subtitle in the homepage
-    subtitle: Summer 2020 Blog
+    subtitle: Lunch and Learn 2021
     # option to specify image in the homepage
     image: "/images/Logo.png" # worker.svg 
     # option to specify the width of the image in the homepage
@@ -121,12 +121,12 @@ params:
     logo: "/images/Logo-icon.png"
     # option to specify your contact email in the footer
     email: 
-      link: interns@tailwindtraders.com
+      link: traders@ajg.com
       title: Email List
     # option to specify your linkedin profile in the footer
     linkedin: 
       link: your_linkedin_profile
-      title: Tailwind Taders on LinkedIn
+      title: Gallagher Traders on LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
     # facebook: 
